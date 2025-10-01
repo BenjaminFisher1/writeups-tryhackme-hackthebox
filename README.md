@@ -6,12 +6,8 @@ A collection of writeups I've made to document my progress with TryHackMe and Ha
 [Blue Writeup (Metasploit, JTR, nmap)](TryHackMe-Blue.pdf)
 
 [MD2PDF Writeup (iframe injection, gobuster, nmap)](TryHackMe-MD2PDF.pdf)
-<details>
-<summary>Writeups Table</summary>
 
 | Platform   | Room/Challenge         | Techniques/Tools                        | PDF Link                          |
 |------------|------------------------|-----------------------------------------|-----------------------------------|
 | TryHackMe   | Blue                   | Metasploit, JTR, nmap                   | [Blue Writeup](TryHackMe-Blue.pdf) |
 | TryHackMe   | MD2PDF                 | iframe injection, gobuster, nmap         | [MD2PDF Writeup](TryHackMe-MD2PDF.pdf) |
-
-</details>
