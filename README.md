@@ -7,3 +7,4 @@ A collection of writeups I've made to document my progress with TryHackMe and Ha
 |------------|------------------------|-----------------------------------------|-----------------------------------|
 | TryHackMe   | Blue                   | Metasploit, JTR, nmap                   | [Blue Writeup](TryHackMe-Blue.pdf) |
 | TryHackMe   | MD2PDF                 | iframe injection, gobuster, nmap         | [MD2PDF Writeup](TryHackMe-MD2PDF.pdf) |
+| TryHackMe   | Neighbour              | IDOR Exploit, nmap                       | [Neighbour Writeup](TryHackMe-Neighbour.pdf) |
