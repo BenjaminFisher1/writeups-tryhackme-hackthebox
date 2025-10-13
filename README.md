@@ -9,3 +9,4 @@ A collection of writeups I've made to document my progress with TryHackMe and Ha
 | $\textcolor{red}{\text{TryHackMe}}$   | $\textcolor{red}{\text{MD2PDF}}$                 | $\textcolor{red}{\text{iframe injection, gobuster, nmap}}$         | [MD2PDF Writeup](TryHackMe-MD2PDF.pdf) |
 | $\textcolor{red}{\text{TryHackMe}}$   | $\textcolor{red}{\text{Neighbour}}$              | $\textcolor{red}{\text{IDOR Exploit, nmap}}$                       | [Neighbour Writeup](TryHackMe-Neighbour.pdf) |
 | $\textcolor{blue}{\text{Hack The Box}}$ | $\textcolor{blue}{\text{Brutus}}$                | $\textcolor{blue}{\text{auth.log, wtmp}}$                           | [Brutus Writeup](HackTheBox-Brutus.pdf) |
+| $\textcolor{blue}{\text{Hack The Box}}$ | $\textcolor{blue}{\text{Campfire 2}}$                | $\textcolor{blue}{\text{Windows Event logs, Chainsaw}}$                           | [Campfire-2 Writeup](HackTheBox-Campfire-2.pdf) |
